@@ -1,5 +1,5 @@
 # People Analytics Consulting Business Case Study
-### Compensation, Performance & Employee Engagement Analyses
+### Performance, Retention & Employee Engagement Analyses
 
 ## Overview
 
@@ -82,6 +82,7 @@ These recommendations were organized into a **90-day implementation roadmap** wi
 
 ### Workforce Distribution
 <!-- Insert image here -->
+Performance and Retention Analyses/images/department_performance.png
 
 ### Compensation Analysis
 <!-- Insert image here -->
