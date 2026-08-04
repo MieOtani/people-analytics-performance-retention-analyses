@@ -80,18 +80,17 @@ These recommendations were organized into a **90-day implementation roadmap** wi
 
 ## Project Visuals
 
-### Workforce Distribution
-<!-- Insert image here -->
-Performance and Retention Analyses/images/department_performance.png
+### Department and Performance Distribution
+![](performance_retention_and_employee_engagement_analyses/images/department_performance.png)
 
-### Compensation Analysis
-<!-- Insert image here -->
+### Employee Engagement and Performance by PTO Taken
+![](performance_retention_and_employee_engagement_analyses/images/engagement_pto.png)
 
-### Performance Distribution
-<!-- Insert image here -->
+### Compensation by Office
+![](performance_retention_and_employee_engagement_analyses/images/office_rate.png)
 
-### Engagement & PTO Analysis
-<!-- Insert image here -->
+### Overall Performance Rating
+![](performance_retention_and_employee_engagement_analyses/images/performance_rate.png)
 
-### Executive Recommendations
-<!-- Insert image here -->
+### Culture Signals: Comfort Levels for Taking PTO
+![](performance_retention_and_employee_engagement_analyses/images/pto_comfort.png)
